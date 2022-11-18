@@ -1,2 +1,2 @@
 # odin-recipe
-file:///home/sean/repos/odin-recipes/index.html
+https://burk-0.github.io/odin-recipe/
